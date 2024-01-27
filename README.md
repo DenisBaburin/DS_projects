@@ -1,3 +1,5 @@
+![Header](data/image_for_github_DS.webp)
+
 # Проекты
 
 [Проект 1. Анализ резюме из HeadHunter".](https://github.com/DenisBaburin/DS_projects/tree/main/PROJECT-1_Анализ%20резюме%20из%20HeadHunter)
