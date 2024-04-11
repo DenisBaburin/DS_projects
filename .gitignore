@@ -171,3 +171,5 @@ IDE\DS_school\PROJECT-2_Анализ вакансий из HeadHunter\config.yam
 # local env files
 .env*.local
 .env
+*.xlsx
+*.csv
